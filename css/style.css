@@ -1,0 +1,13 @@
+.hr {
+	border: 1px solid;
+	margin: 10px;
+}
+body {
+	font-family: 'Encode Sans', sans-serif;
+}
+.title-logo {
+	margin-top: 20px;
+}
+.title-super {
+	font-size: 50px
+}
